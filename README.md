@@ -1,2 +1,2 @@
-# analytics-programming-hw1
-MSBA Summer 2016 Course
+# MIS S381N
+Data Analytics Programming
