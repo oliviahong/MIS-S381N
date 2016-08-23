@@ -1,2 +1,2 @@
-# MIS S381N
-Data Analytics Programming
+# MSBA 2017
+Programming Projects
